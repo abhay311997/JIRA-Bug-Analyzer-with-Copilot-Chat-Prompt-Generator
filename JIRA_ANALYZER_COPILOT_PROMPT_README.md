@@ -10,7 +10,7 @@ A Python GUI application that analyzes JIRA bugs and **generates comprehensive p
 - 📋 **Copilot Prompt Generator**: Creates ready-to-use prompts for GitHub Copilot Chat
 - 🎯 **Workspace-Aware Context**: Includes actual code snippets and file structure in prompts
 - 📋 **One-Click Copy**: Copy button to instantly copy prompt to clipboard
-- 🎨 **Beautiful GUI**: Mobileum-branded interface with logo and professional layout
+- 🎨 **Beautiful GUI**: <Organisation>-branded interface with logo and professional layout
 - 🌐 **Browser Integration**: Quick access to view bugs in JIRA web interface
 - 🔧 **Customizable**: Works with any technology stack and project type
 
